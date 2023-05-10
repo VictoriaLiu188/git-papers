@@ -7,4 +7,4 @@ trying to use git -a
 
 writing something new
 test to see if we can push this change to github. took a long time to connect local git with github
-
+By definition git is working locally as a version control system, must sync with github, those online cloud
