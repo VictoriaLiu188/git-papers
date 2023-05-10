@@ -6,3 +6,5 @@ now we are trying with another txt file in common directory
 trying to use git -a
 
 writing something new
+test to see if we can push this change to github. took a long time to connect local git with github
+
